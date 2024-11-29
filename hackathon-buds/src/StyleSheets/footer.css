@@ -1,0 +1,7 @@
+.footer-border{
+    border: 3px solid var(--border-color);
+    cursor: pointer;
+};
+.footer-border:hover{
+    background-color: var(--hover-color);
+}
