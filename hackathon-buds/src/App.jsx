@@ -5,6 +5,7 @@ import Router from './Routes';
 import LaptopNavbar from '../src/Components/LaptopNavbar'
 import MobileNavbar from '../src/Components/MobileNavbar'
 import Footer from "./Components/Footer";
+import TakePart from "./Components/TakePart";
 
 function App() {
 
@@ -32,6 +33,7 @@ function App() {
             '.link'
           ]}
         />
+        <TakePart />
         <div className="mobile-nav">
           <MobileNavbar />
         </div>

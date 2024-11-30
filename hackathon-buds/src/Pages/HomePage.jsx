@@ -4,7 +4,9 @@ import Hero from "../Components/Hero"
 function HomePage() {
   return (
     <>
-    <Hero />
+      <div className="px-10">
+        <Hero />
+      </div>
     </>
   )
 }
