@@ -43,7 +43,7 @@ function App() {
         </div>
 
         <BrowserRouter>
-          <div>
+          <div className="router">
             <Router />
           </div>
         </BrowserRouter>
