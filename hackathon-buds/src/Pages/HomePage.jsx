@@ -1,5 +1,5 @@
 
-import About from "../Components/About"
+// import About from "../Components/About"
 import Hero from "../Components/Hero"
 import Sponsors from "../Components/Sponsors"
 
